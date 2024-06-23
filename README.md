@@ -30,9 +30,9 @@ This project is a PDF summarizer built using Python. It uses the llama_cpp libra
   pip install -r requirements.txt
 ```
 
-4. Install the LLM llama-3:
+4. Install the LLM llama-3: [Meta-Llama-3](https://huggingface.co/hyhf/Meta-Llama-3-8B-Instruct-Q4_K_M-GGUF/blob/main/meta-llama-3-8b-instruct-q4_k_m.gguf)
 
-[Meta-Llama-3](https://huggingface.co/hyhf/Meta-Llama-3-8B-Instruct-Q4_K_M-GGUF/blob/main/meta-llama-3-8b-instruct-q4_k_m.gguf)
+5. Create a llms folder and add the installed LLM.
 
 ## Usage
 
@@ -41,9 +41,7 @@ This project is a PDF summarizer built using Python. It uses the llama_cpp libra
   python api.py
 ```
 
-2. Now use and abuse the pdf summarizer 😎
-
-[API](http://localhost:8000/docs#)
+2. Now use and abuse the pdf summarizer 😎 [API-LINK](http://localhost:8000/docs#)
 
 ## Project Structure
 
